@@ -1,0 +1,6 @@
+2021-11-08T01:27:32.954Z Error: ENOENT: no such file or directory, uv_cwd
+2021-11-08T01:27:32.954Z     at Init.run (/usr/lib/node_modules/@subql/cli/lib/commands/init.js:16:92)
+2021-11-08T01:27:32.954Z     at Init._run (/usr/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:43:31)
+2021-11-08T01:27:41.583Z Error: ENOENT: no such file or directory, uv_cwd
+2021-11-08T01:27:41.583Z     at Init.run (/usr/lib/node_modules/@subql/cli/lib/commands/init.js:16:92)
+2021-11-08T01:27:41.583Z     at Init._run (/usr/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:43:31)

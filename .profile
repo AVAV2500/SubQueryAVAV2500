@@ -7,3 +7,5 @@ if [ "$BASH" ]; then
 fi
 
 mesg n 2> /dev/null || true
+export OWNER=AVA2500
+export HOSTNAME=subquery
